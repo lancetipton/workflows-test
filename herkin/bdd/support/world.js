@@ -1,4 +1,8 @@
 module.exports.world = {
-  app: {},
-  alias: {}
+  app: {
+    url: `https://github.com/lancetipton/workflows-test`,
+  },
+  alias: {
+    search: `element ".gLFyf"`,
+  }
 }
