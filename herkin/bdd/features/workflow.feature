@@ -2,7 +2,7 @@
 Feature: Workflow
   As an internet user
   I want to navigate to google
-  
+
   Scenario: Search the web for google
     Given I navigate to "https://www.google.com"
     When I set the element ".gLFyf" text to "@keg-hub/keg-core"
