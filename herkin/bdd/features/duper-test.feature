@@ -1,1 +1,1 @@
-Feature: ${name}
+Feature: duper test
