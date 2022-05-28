@@ -3,9 +3,6 @@ Feature: Workflow
   As an internet user
   I want to navigate to google
   
-  Scenario: Search the web for google
-    Given I navigate to "https://www.google.com"
-    When I set the element ".gLFyf" text to "@keg-hub/keg-core"
-    When I press the key "enter"
-    Then the element "#search" contains the text "@keg-hub/keg-core - npm"
-
+  Scenario: I go to the GobletQA Website
+    Given I navigate to "https://gobletqa.com"
+    Then the element "h1" contains the text "Let us test that for you"
