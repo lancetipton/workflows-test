@@ -1,2 +1,2 @@
 Feature: test
-  Example: my example - change
+  Example: my example
