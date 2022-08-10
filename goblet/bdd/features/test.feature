@@ -1,1 +1,2 @@
-Feature: ${name}
+Feature: test
+  Example: my example
