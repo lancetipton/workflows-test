@@ -14,3 +14,7 @@
  *
  */
 
+await page.goto(`https://www.google.com`)
+const inputLocator = await page.locator('[aria-label="Search"]')
+await inputLocator.fill("goblet")
+await page.keyboard.press("Enter")
