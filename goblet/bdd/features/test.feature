@@ -1,6 +1,6 @@
-Feature: Search Google
-  Example: Find GobletQA
-    Given I navigate to "google.com"
+Feature: GobletQA Blog
+  Example: Got to Goblog  
+    Given I navigate to "https://www.gobletqa.com/"
     And I click "search"
     And I write "gobletqa.com"
     And I press "Enter"
