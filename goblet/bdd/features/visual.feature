@@ -1,1 +1,1 @@
-Feature: ${name}
+data:
