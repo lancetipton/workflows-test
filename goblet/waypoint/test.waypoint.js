@@ -21,7 +21,7 @@ await page.keyboard.press("Enter")
 
 // this is a comment
 const func = () => {
-  const data = {}
+  const thing = {}
 
   return "string"
 }
