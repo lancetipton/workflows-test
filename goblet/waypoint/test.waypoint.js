@@ -19,6 +19,10 @@ const inputLocator = await page.locator('[aria-label="Search"]')
 await inputLocator.fill("goblet")
 await page.keyboard.press("Enter")
 
-const func = () => {
-  
+console.log(`Hello World`)
+
+// this is a comment
+
+const data = () =>  {
+
 }
