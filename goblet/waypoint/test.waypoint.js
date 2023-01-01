@@ -19,3 +19,4 @@ const inputLocator = await page.locator('[aria-label="Search"]')
 await inputLocator.fill("goblet")
 await page.keyboard.press("Enter")
 
+const num = 1234
