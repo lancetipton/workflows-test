@@ -1,4 +1,4 @@
-@google @search
+@google @search @goblet
 Feature: Search Google
   Example: Find GobletQA
     Given I navigate to "google.com"
