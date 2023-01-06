@@ -1,5 +1,9 @@
 {
+  "merge": [],
   "app": {
-
+    "url": "https://gobletqa.com"
+  },
+  "$alias": {
+    
   }
 }
