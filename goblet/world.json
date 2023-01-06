@@ -1,5 +1,5 @@
 {
-  "merge": [],
+  "merge": ["world.ts"],
   "app": {
     "url": "https://www.gobletqa.com/"
   },
