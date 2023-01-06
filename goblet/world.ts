@@ -1,4 +1,4 @@
-export const world = {
+const world = {
   app: {
     url: "https://www.google.com/"
   },
@@ -6,3 +6,5 @@ export const world = {
     
   }
 }
+
+export default world
