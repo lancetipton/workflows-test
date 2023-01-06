@@ -5,11 +5,11 @@ module.exports = {
   paths: {
     repoRoot: __dirname,
     workDir: 'goblet',
+    world: 'world.json',
     artifactsDir: 'artifacts',
     reportsDir: 'artifacts/reports',
     featuresDir: 'bdd/features',
     supportDir: 'bdd/support',
-    world: 'bdd/support/world.js',
     stepsDir: 'bdd/steps',
     unitDir: 'unit',
     waypointDir: 'waypoint',
